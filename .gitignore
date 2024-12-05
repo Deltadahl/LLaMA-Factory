@@ -174,3 +174,4 @@ wandb/
 generated_predictions.jsonl
 
 VetCT.json
+VetCT_test_set.json
